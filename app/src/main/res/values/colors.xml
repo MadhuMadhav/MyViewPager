@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="slide1">#acec73</color>
+    <color name="slide2">#FF4081</color>
+    <color name="slide3">#ab28ab</color>
+    <color name="slide4">#facb4947</color>
+    <color name="slide5">#f9129375</color>
+    <color name="slide6">#b9a723</color>
+    <color name="slide7">#74c234</color>
+    <color name="text_color_white">#f4eeee</color>
+    <color name="dots_color_active">#ffffff</color>
+    <color name="dots_color_inactive">#dbd8d8</color>
+</resources>
